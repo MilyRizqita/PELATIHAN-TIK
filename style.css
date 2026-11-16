@@ -6,12 +6,12 @@ body {
 
 .kartu-profil {
    width: 300px;
-   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan *?
+   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
    padding: 20px;
    background-color: white;
-  border-radius: 15px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0,1)
-  text-align: center;
+   border-radius: 15px;
+   box-shadow: 0 4px 8px rgba(0,0,0,0,1)
+   text-align: center;
 }
 
 .kartu-profil img {
